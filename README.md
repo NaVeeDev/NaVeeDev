@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+<!-- insert cool gif with "I'm name" here -->
+
+# 💡 About me
+💭 21 year old  
+🌻 she/her  
+📍 based in Paris  
+🌱 Cambodian-French  
+📚 Currently studying for a Master's Degree of Software Science and Technology @ Sorbonne University
+
 
 <!--
 **NaVeeDev/NaVeeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
