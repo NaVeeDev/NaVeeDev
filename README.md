@@ -2,25 +2,9 @@
 
 <!-- insert cool gif with "I'm name" here -->
 
-# 💡 About me
+## 💡 About me
 💭 21 year old  
-🌻 she/her  
 📍 based in Paris  
 🌱 Cambodian-French  
 📚 Currently studying for a Master's Degree of Software Science and Technology @ Sorbonne University
 
-
-<!--
-**NaVeeDev/NaVeeDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
