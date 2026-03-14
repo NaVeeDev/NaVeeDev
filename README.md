@@ -27,10 +27,10 @@
 
 ## 📮 Contact me
 <a href="mailto:laura.ly@etu.sorbonne-universite.fr">
-![fa-envelop](fa-envelop.svg)
+![fa-envelop](img/fa-envelop.svg)
 </a>  
 
 <a href="https://discordapp.com/users/534061340612886578">
-![fa-discord](fa-discord.svg)
+![fa-discord](img/fa-discord.svg)
 </a>  
 <!-- TODO: add linkedin -->
