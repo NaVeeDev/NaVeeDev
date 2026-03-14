@@ -26,11 +26,9 @@
 <!-- TODO: hobbies section -->
 
 ## 📮 Contact me
-<a href="mailto:laura.ly@etu.sorbonne-universite.fr">
-![fa-envelop](img/fa-envelop.svg)
-</a>  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laura.ly@etu.sorbonne-universite.fr)
 
-<a href="https://discordapp.com/users/534061340612886578">
-![fa-discord](img/fa-discord.svg)
-</a>  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/534061340612886578)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-ly-a48883315)
 <!-- TODO: add linkedin -->
