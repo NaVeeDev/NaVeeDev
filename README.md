@@ -8,6 +8,7 @@
 🌱 Cambodian-French  
 📚 Currently studying for a Master's Degree of Software Science and Technology @ Sorbonne University  
 🤝 Often working with [Yvan](https://github.com/yvan-parent) my project partner!
+🧠 Co-writer of [this paper](https://hal.science/hal-05428160) 
 
 ## ⚙️ Languages I use
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=OCaml&logoColor=white)
