@@ -3,7 +3,7 @@
 </p>
 
 ## 💡 About me
-💭 21 year old  
+💭 22 year old  
 📍 based in Paris  
 🌱 Cambodian-French  
 📚 Currently studying for a Master's Degree of Software Science and Technology @ Sorbonne University  
